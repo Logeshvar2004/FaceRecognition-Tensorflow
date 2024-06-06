@@ -30,7 +30,7 @@ Here I am using 5 classes : Angelina Jolie, Brad Pitt, Denzel Washington, Hugh J
 I Tested the trained face recognition model by providing an image file path. 
 Image provided :
 
-![image](https://github.com/Logeshvar2004/FaceRecognition-Tensorflow/assets/102981016/e07b2faf-8534-4a12-9b45-ff161fb4e145)
+![image](https://github.com/Logeshvar2004/FaceRecognition-Tensorflow/assets/102981016/8873b518-a00d-40e1-a631-f652cd9fe0bb)
 
 
 Output:
