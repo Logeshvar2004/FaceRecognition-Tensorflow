@@ -7,7 +7,8 @@ Additionally, In this project, I used Streamlit to create a simple web interface
 
 **Streamlit Interface:** 
 
-![image](https://github.com/Logeshvar2004/FaceRecognition-Tensorflow/assets/102981016/caab9ad7-bda1-4254-b0aa-11dfd5e1fc32)
+![image](https://github.com/Logeshvar2004/FaceRecognition-Tensorflow/assets/102981016/2ec111b1-e7c7-4bee-a12d-81798beb211d)
+
 
 **Dataset Link** : https://www.kaggle.com/datasets/vishesh1412/celebrity-face-image-dataset/data
 
