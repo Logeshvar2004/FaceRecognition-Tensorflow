@@ -3,6 +3,7 @@
 
 This project demonstrates how to train a simple face recognition model using TensorFlow. The model is trained on a dataset containing images of different celebrities.
 Additionally, In this project, I used Streamlit to create a simple web interface for testing the face recognition model. Users can upload an image, and the model will predict the celebrity in the image along with the confidence score.
+
 **Streamlit Interface:** 
 
 ![image](https://github.com/Logeshvar2004/FaceRecognition-Tensorflow/assets/102981016/caab9ad7-bda1-4254-b0aa-11dfd5e1fc32)
